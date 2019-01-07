@@ -10,6 +10,5 @@ You should NOT try to redefine any of the above variables.
 
 let newID = oldID + 1000000000;
 
-let ageIsValid = currentAge;
-currentAge = 40;
-Number.isInteger(40);
+let ageIsValid = ;
+Number.isInteger(currentAge);
